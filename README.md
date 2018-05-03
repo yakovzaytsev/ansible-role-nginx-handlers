@@ -9,7 +9,7 @@ Example Playbook
 Add it to `yourrole/meta/main.yml` like this
 
     dependencies:
-      - ysz.nginx_handlers
+      - yakovzaytsev.nginx-handlers
 
 Then in playbook like this
 
